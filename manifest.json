@@ -1,7 +1,7 @@
 {
-  "name": "Dicken PWA test web site",
-  "short_name": "Dicken PWA test",
-  "description": "Dicken PWA test description",
+  "name": "Dicken PWA",
+  "short_name": "Dicken PWA",
+  "description": "Dicken PWA description",
   "lang": "en-GB",
   "start_url": "/",
   "display": "standalone",
