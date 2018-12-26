@@ -1,7 +1,7 @@
 {
-  "name": "PWA test web site",
-  "short_name": "PWA test",
-  "description": "Web Community Leaders landing page",
+  "name": "Dicken PWA test web site",
+  "short_name": "Dicken PWA test",
+  "description": "Dicken PWA test description",
   "lang": "en-GB",
   "start_url": "/",
   "display": "standalone",
