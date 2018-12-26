@@ -47,10 +47,10 @@ hr.star-light {
   border-color: #fff;
 }
 
-hr.star-light:after {
-  color: #fff;
-  background-color: #18BC9C;
-}
+    hr.star-light:after {
+        color: #fff;
+        background-color: #0e3860;
+    }
 
 hr.star-dark {
   border-color: #2C3E50;
@@ -348,11 +348,11 @@ a:focus, a:hover, a:active {
 }
 
 .bg-primary {
-  background-color: #18BC9C !important;
+  background-color: #0E3860 !important;
 }
 
 .bg-secondary {
-  background-color: #2C3E50 !important;
+  background-color: #e31f23 !important;
 }
 
 .text-primary {
